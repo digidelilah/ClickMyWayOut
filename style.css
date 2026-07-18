@@ -1,0 +1,23 @@
+body{
+    height:100vh;
+    margin: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgray;
+    font-family: sans-serif;
+
+}
+
+#mainButton{
+    padding: 20px;
+    font-size: medium;
+    border: none;
+    border-radius: 12px;
+    background-color: lavender;
+    cursor: pointer;
+}
+
+#mainButton:hover{
+    background-color: crimson;
+}
